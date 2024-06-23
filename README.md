@@ -22,3 +22,8 @@ Trabalho N3 Prof. Rodrigo.
 
 
 [08 - Sistemas de Arquivos.pdf](https://github.com/user-attachments/files/15945930/08.-.Sistemas.de.Arquivos.pdf)
+
+
+## OBS:
+
+Tive bastante dificuldade preincipalmete no modo de como tratar os tipos de dados do programa
