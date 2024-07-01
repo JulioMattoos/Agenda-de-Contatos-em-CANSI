@@ -1,7 +1,8 @@
 # Agenda-de-Contatos-em-CANSI
 Trabalho N3 Prof. Rodrigo.
-##Feito por:
-#Julio Bezerra de Mattos Manoel & Gabriel de Oliveira Melo
+
+## Feito por:
+# Julio Bezerra de Mattos Manoel & Gabriel de Oliveira Melo
 
 ## Conteudos usados para consulta:
 
