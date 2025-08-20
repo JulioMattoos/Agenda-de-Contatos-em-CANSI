@@ -28,4 +28,4 @@ Trabalho N3 Prof. Rodrigo.
 
 ## OBS:
 
-Tive bastante dificuldade preincipalmete no modo de como tratar os tipos de dados do programa
+Tive bastante dificuldade principalmete no modo de como tratar os tipos de dados do programa
